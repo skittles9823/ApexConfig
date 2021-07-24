@@ -1,5 +1,8 @@
 # Apex Config
 
+## Credits
+[deaFPS](https://github.com/deaFPS/apex-configs-by-deafps) for the base config, check their repo out for more info.
+
 ## Launch Options
 
 Right click Apex Legends in steam, click Properties and paste this into Launch Options:
