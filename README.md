@@ -10,7 +10,7 @@ Right click Apex Legends in steam, click Properties and paste this into Launch O
 
 ## Configs
 
-To use these configs, paste autoexec.cfg and optimise.cfg in:
+To use these configs, paste autoexec.cfg, videoconfig.txt, and optimise.cfg in:
 - `C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg`
 
 ## Nvidia Settings
