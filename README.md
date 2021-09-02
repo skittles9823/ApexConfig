@@ -26,4 +26,3 @@ These are settings I use for some games on weaker hardware, if you know what you
 
 ![Apex1](Images/apex1.png)
 ![Apex2](Images/apex2.png)
-![Apex3](Images/apex3.png)
