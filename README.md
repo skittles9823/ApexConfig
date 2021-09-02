@@ -6,12 +6,18 @@
 ## Launch Options
 
 Right click Apex Legends in steam, click Properties and paste this into Launch Options:
-- `+exec autoexec.cfg +exec optimise.cfg -preload +fps_max 142 -high -dxlevel 95 -forcenovsync`
+- `+exec autoexec.cfg`
 
 ## Configs
 
-To use these configs, paste autoexec.cfg, videoconfig.txt, and optimise.cfg in:
+To use these configs, paste autoexec.cfg, and optimise.cfg in:
 - `C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg`
+Make sure to edit the personal binds in [autoexec.cfg](autoexec.cfg) to suit what you like.
+
+## videoconfig
+videoconfig directory:
+- `%USERPROFILE%\Saved Games\Respawn\Apex\local`
+rename the existing config to videoconfig.txt.bak and copy the new one in.
 
 ## Nvidia Settings
 These are settings I use for some games on weaker hardware, if you know what you're doing feel free to modify them.
